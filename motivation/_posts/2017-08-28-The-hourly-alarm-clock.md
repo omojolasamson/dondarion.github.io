@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The hourly alarm clock. Ultimate solution to self discipline and changing your mindset.
+title: The hourly alarm clock. Ultimate solution to self-discipline and changing your mindset.
 image: /images/son-2106231.png
 ---
 
