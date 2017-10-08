@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The hourly alarm clock. Ultimate solution to self discipline and changing your mindset.
-image: /images/config.png
+image: /images/son-2106231.png
 ---
 
 The major reason why we struggle with making ourselves do what we have to do is that we leave the decision to the exact moment that we need to make it, thereby requiring a huge amount of will power from ourselves, of which most times, we do not have.
