@@ -43,16 +43,19 @@ You should seriously consider investing in some headphones, if you hope to becom
 
 
 Make use of the auto-run feature
+
 Fortnite is a game that involves a lot of running around and the more ground you cover, the more prone to attack you are. Also, the control buttons are on the screen and they take up significant space, limiting the area in your view. To make up for this problem, Epic threw in a new feature that is not available in the PC and console versions; the auto-run feature. Here's how to use it:
 On the left hand side of your screen, there is a control stick. When the stick is double tapped, your character runs in the direction that they are currently facing. This helps you to survey the area properly, and unveil any enemies around. Since your character runs automatically, you have no need for the control buttons and essentially free up that part of the screen, giving yourself a wider and better view.
 
 
 Make use of the aim down sights feature
+
 When playing the fortnite battle royale game on phone, aiming is a bit more difficult, as compared to playing on other platforms. However, the mobile platform has its own ADS feature.
 This feature comes in handy when you are far away from your enemies. At long range distances, if you fire a shot at your enemy using normal sight, you are likely to miss. The ADS button is a crosshair located next to the crouch button. When clicked, the camera zooms in and gives you a more accurate shot. 
 NB: your accuracy is increased if you crouch while shooting.
 
 
 Use the tap to search/interact feature
+
 Epic makes looting a lot easier on phone by making your character automatically take into inventory, everything he comes across.
 Automatically picking up loot as you go is all nice and good, but the disadvantage of this feature is that it gets your inventory clogged up fast with stuff that you have no need for. To stop the auto pick up function, go to the settings menu and click on "tap to search/interact". This way, you can pick up really valuable items and increase your chances of winning.
