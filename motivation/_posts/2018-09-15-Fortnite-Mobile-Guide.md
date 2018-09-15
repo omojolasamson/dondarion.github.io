@@ -32,7 +32,7 @@ The xbox mobile app allows you to chat with your friends while playing the game 
 Before downloading the app, you have to create a microsoft account. Once the app has been downloaded, open it up. At the top of the screen, locate the icon with the image of three people on it, and click on the icon. You will be provided with the option of selecting the friends you want to chat with and inviting them. After selecting, you'll be able to chat with them while playing your favourite game!
 
 
-Getting started
+Getting started for
 
 Here are a few tips and tricks to guide you on your way to becoming a pro:
 
