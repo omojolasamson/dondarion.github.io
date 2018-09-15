@@ -24,7 +24,7 @@ Obviously the control scheme on your mobile phone will be much smaller than the 
 You can practice switching between both interfaces with the pre-game lobby. Also try out different camera angles to find out the perfect position for your character.
 
 
-HEAD-UP DISPLAY
+HEAD-UP DISPLAY CUSTOMIZATION
 
 In the lobby, settings option can be located at the top right of the screen. After clicking on the settings option, click on "HUD layout tool". On the screen that appears, you'll be able to rearrange and redesign your control buttons to suit your preference.
 Voice chat activation
