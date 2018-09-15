@@ -33,8 +33,8 @@ Before downloading the app, you have to create a microsoft account. Once the app
 
 
 Getting started
-
 Here are a few tips and tricks to guide you on your way to becoming a pro:
+
 Block out sound
 
 You should seriously consider investing in some headphones, if you hope to become a pro in the game. They will help you block out distracting sounds so that you can pay maximum focus to the game. With them, you can easily hear footsteps, tinkling chests etc., giving you a complete experience of this amazing game.
