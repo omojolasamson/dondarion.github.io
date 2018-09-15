@@ -33,6 +33,7 @@ Before downloading the app, you have to create a microsoft account. Once the app
 
 
 Getting started
+
 Here are a few tips and tricks to guide you on your way to becoming a pro:
 
 
