@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fortnite Battle Royale on mobile phones: an introduction and guide.
+title: The hourly alarm clock. Ultimate solution to self-discipline and changing your mindset.
 image: /images/son-2106231.png
 ---
 
