@@ -4,6 +4,7 @@ title: Fortnite Battle Royale on mobile phones: an introduction and guide.
 image: /images/son-2106231.png
 ---
 
+
 Have you been wondering what it woulf be like playing your favourite game fortnite battle royale on your mobile device? Have you been searching for tips and tricks to improve your playing skills?
 This article contains all the information you require to enjoy the fortnite battle royale game on your phone, anywhere you are. We will walk you through the entire installation process for ios and android devices, and provide you with strategy advice guaranteed to help you win.
 Epic is just the perfect name for the company as they have been dominating the gaming world on the pc and console platforms for years now. They have finally carried out their first foray into the mobile gaming world. This new development comes with the advantage of you enjoying your favourite game on the go.
