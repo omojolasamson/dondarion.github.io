@@ -1,12 +1,7 @@
 ---
 layout: post
-title: The hourly alarm clock. Ultimate solution to self-discipline and changing your mindset.
-image: /images/son-2106231.png
----
----
-layout: post
 title: Fortnite Battle Royale on mobile phones: an introduction and guide.
-image: /images/config.png
+image: /images/son-2106231.png
 ---
 
 Have you been wondering what it woulf be like playing your favourite game fortnite battle royale on your mobile device? Have you been searching for tips and tricks to improve your playing skills?
