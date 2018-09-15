@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fortnite Battle Royale on mobile phones: an introduction and guide.
+title: Fortnite Battle Royale on mobile phones. An introduction and guide.
 image: /images/son-2106231.png
 ---
 
