@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FORTNITE BATTLE ROYALE ON MOBILE PHONES. AN INTRODUCTION AND GUIDE.
+title: FORTNIT BATTLE ROYALE ON MOBILE PHONES. AN INTRODUCTION AND GUIDE.
 ---
 
 Have you been wondering what it would be like playing your favourite game fortnite battle royale on your mobile device? Have you been searching for tips and tricks to improve your playing skills?
